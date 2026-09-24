@@ -1,0 +1,14 @@
+﻿# Virtual environments
+venv/
+.venv/
+
+# Cloned repos and heavy caches (Too large for GitHub)
+TRIADS/
+mat2vec_cache/
+
+# Python cache and IDE files
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+Thumbs.db

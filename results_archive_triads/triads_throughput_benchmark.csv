@@ -1,0 +1,7 @@
+model,hardware,batch_size,total_samples,time_sec,samples_per_sec
+TRIADS (5-fold ensemble),CPU (i7-14700HX),1,10000,149.525,66.9
+TRIADS (5-fold ensemble),CPU (i7-14700HX),10,10000,23.362,428.0
+TRIADS (5-fold ensemble),CPU (i7-14700HX),100,10000,4.624,2162.5
+TRIADS (5-fold ensemble),CPU (i7-14700HX),1000,10000,2.643,3783.5
+TRIADS (5-fold ensemble),CPU (i7-14700HX),5000,10000,3.343,2991.4
+TRIADS (5-fold ensemble),CPU (i7-14700HX),10000,10000,3.726,2683.9
